@@ -22,7 +22,8 @@ Welcome! I am Gastón Creci, a physicist with a passion for computational scienc
   - Image processing
   - Data analysis and plotting with Pandas and Matplotlib
   - Time-series and detection analysis 
-  - Geospatial data analysis 
+  - Geospatial data analysis
+    
   `Python` `Numerical Methods` `Data Analysis` `Image processing`
 
 - **[IBM-Data-Science-course](https://github.com/GastCre/IBM-Data-Science-course)**  
