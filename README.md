@@ -19,10 +19,10 @@ Welcome! I am Gastón Creci, a physicist with a passion for computational scienc
 - **[Python.codes](https://github.com/GastCre/Python.codes)**  
   *A growing set of Python scripts and Jupyter notebooks for scientific computing and algorithmic exploration.*  
   - Numerical integration and differentiation  
-  - Monte Carlo simulations  
-  - Data analysis and plotting with Pandas and Matplotlib  
-  - Example scripts for common scientific programming tasks  
-  `Python` `Numerical Methods` `Data Analysis` `Simulation`
+  - Image processing
+  - Data analysis and plotting with Pandas and Matplotlib
+  - Time-series and detection analysis 
+  `Python` `Numerical Methods` `Data Analysis` `Image processing`
 
 - **[IBM-Data-Science-course](https://github.com/GastCre/IBM-Data-Science-course)**  
   *My completed assignments, labs, and projects from the IBM Data Science Professional Certificate.*  
