@@ -49,7 +49,7 @@ Welcome! I am Gastón Creci, a physicist with a passion for computational scienc
 - **Other:** Git, LaTeX, Linux
 
 ---
-
+<!---
 ### 📫 Contact
 
 - **LinkedIn:** [Your LinkedIn URL]
@@ -57,6 +57,6 @@ Welcome! I am Gastón Creci, a physicist with a passion for computational scienc
 
 ---
 
-<!---
+
 ![Gaston's GitHub stats](https://github-readme-stats.vercel.app/api?username=GastCre&show_icons=true&theme=radical)
 -->
