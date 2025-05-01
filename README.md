@@ -13,7 +13,8 @@ Welcome! I am Gastón Creci, a physicist with a passion for computational scienc
   - Symbolic and numerical solutions to differential equations  
   - Linear algebra demonstrations  
   - Visualization of mathematical functions and physical phenomena  
-  - Useful code snippets for research and teaching  
+  - Useful code snippets for research and teaching
+  
   `Mathematica` `Physics` `Mathematics` `Visualization`
 
 - **[Python.codes](https://github.com/GastCre/Python.codes)**  
@@ -31,14 +32,16 @@ Welcome! I am Gastón Creci, a physicist with a passion for computational scienc
   - Data wrangling and visualization  
   - Exploratory data analysis  
   - Machine learning model building and evaluation  
-  - Real-world datasets and end-to-end data science workflows  
+  - Real-world datasets and end-to-end data science workflows
+  
   `Python` `Jupyter` `Pandas` `Machine Learning`
 
 - **[PyTorch-course](https://github.com/GastCre/PyTorch-course)** *(forked)*  
   *Course materials and exercises for learning deep learning with PyTorch.*  
   - Neural network basics  
   - Building and training models  
-  - Hands-on coding exercises  
+  - Hands-on coding exercises
+  
   `Python` `PyTorch` `Deep Learning`
 
 ---
