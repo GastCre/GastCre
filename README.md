@@ -49,9 +49,9 @@ Welcome! I am Gastón Creci, a physicist with a passion for computational scienc
 ### 🛠️ Tools & Technologies
 
 - **Programming:** Python, Mathematica, Bash, Fortran
-- **Data Science:** Pandas, NumPy, SciPy, Matplotlib, Scikit-learn, Jupyter, Dash, Folium
+- **Data Science:** Pandas, NumPy, SciPy, Matplotlib, Scikit-learn, Jupyter, Dash, Folium, Itk, Elastix
 - **Machine Learning:** PyTorch, Scikit-learn, Google GenAI
-- **Other:** Git, LaTeX
+- **Other:** Git, LaTeX, MeVisLab
 
 ---
 <!---
