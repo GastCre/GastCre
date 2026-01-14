@@ -2,7 +2,7 @@
 
 ## 👨‍🔬 Data Scientist | AI Engineer |  Physics PhD
 
-Welcome! I am Gastón Creci, a physicist with a passion for computational science, data analysis, and machine learning. My work bridges fundamental research and practical coding, with a focus on clarity, reproducibility, and scientific rigor.
+Welcome! I am Gastón Creci, an AI engineer and data scientist with a passion for computational science, data analysis, and machine learning. My work bridges fundamental research and practical coding, with a focus on clarity, reproducibility, and scientific rigor.
 
 ---
 
