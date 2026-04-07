@@ -53,7 +53,6 @@ Welcome! I am Gastón Creci, an AI engineer and data scientist with a passion fo
 - **Machine Learning:** PyTorch, Scikit-learn, Google GenAI
 - **Other:** Git, LaTeX, MeVisLab
 
-[Gaston's GitHub stats](https://github-readme-stats.vercel.app/api?username=GastCre&show_icons=true&theme=radical)
 ---
 <!---
 ### 📫 Contact
